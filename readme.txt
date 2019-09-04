@@ -1,1 +1,2 @@
 learn Git
+git status
